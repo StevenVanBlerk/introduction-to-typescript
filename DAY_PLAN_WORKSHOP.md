@@ -154,11 +154,3 @@ Steer trainees towards:
 If you would like to further your TypeScript knowledge, there are many great tutorials online. Total TypeScript is one such resource and has many free tutorials.
 
 https://www.totaltypescript.com/tutorials/beginners-typescript
-
-# TO-DO:
-
-Create an easily replicable TypeScript project in GitHub without JavaScript.
-Ideally with Eslint warnings/errors
-Match CYF project structure
-https://github.com/CodeYourFuture/CYF-Workshops
-https://github.com/CodeYourFuture/CYF-Workshops/tree/main/debugging-3
